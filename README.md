@@ -1,3 +1,4 @@
+## stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=curtaincall888&count_private=true" />
 </a>
@@ -5,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtaincall888&layout=donut" />
 </a>
 
-<h3>Languages:</h3>
+## Languages
 <p align="left">
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
@@ -23,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
 </p>
-<h3>Flamework:</h3>
+## Flamework
 <p align="left">
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
@@ -44,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
   </a>
 </p>
-<h3>DB & Tools:</h3>
+## DB & Tools
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
