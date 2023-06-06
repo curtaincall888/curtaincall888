@@ -7,6 +7,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtaincall888&layout=compact&theme=tokyonight" height="170px" width="350px" />
   </a>
 </div>
+<br />
 
 ## Languages
 
