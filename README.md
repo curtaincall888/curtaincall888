@@ -1,7 +1,7 @@
 ## stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curtaincall888&&hide=contribs&count_private=true&theme=tokyonight" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curtaincall888&count_private=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtaincall888&layout=compact&theme=tokyonight" height="170px" width="350px" />
