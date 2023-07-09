@@ -17,6 +17,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Graphql-E10098.svg?logo=graphql&style=plastic" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
 
